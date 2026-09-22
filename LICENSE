@@ -1,0 +1,52 @@
+COMMERCIAL END-USER SOFTWARE LICENSE AGREEMENT (EULA)
+
+IMPORTANT: PLEASE READ THIS SOFTWARE LICENSE AGREEMENT CAREFULLY BEFORE INSTALLING, ACCESSING, OR USING THE GAM (GAS ACCOUNTING MANAGER) DESKTOP APPLICATION.
+
+This Commercial End-User Software License Agreement ("Agreement" or "EULA") is a legally binding contract between you (either an individual, business entity, or station operator, hereinafter referred to as "Licensee", "You", or "Your") and Olaitan / GAM Software Systems ("Licensor", "Author", "We", "Us", or "Our"), governing the use of the GAM (Gas Accounting Manager) desktop point-of-sale and station management application, including all associated software files, updates, documentation, and components (collectively, the "Software").
+
+By installing, copying, executing, or otherwise using this Software, You agree to be bound by the terms of this Agreement. If You do not agree to the terms of this Agreement, do not install or use the Software.
+
+---
+
+1. GRANT OF LICENSE
+Subject to the terms and conditions of this Agreement and any applicable commercial licensing fees or purchase agreements, Licensor grants to Licensee a limited, non-exclusive, non-transferable, revocable license to install and execute the Software solely in object code form on designated workstation computers at Licensee's Liquefied Petroleum Gas (LPG) plant, depot, or retail filling stations for internal business operational purposes.
+
+2. OWNERSHIP & INTELLECTUAL PROPERTY
+The Software is licensed, not sold. All title, copyright, trademarks, trade secrets, patents, and other intellectual property rights in and to the Software (including but not limited to source code, user interface designs, logos, database schemas, printing drivers, algorithms, and documentation) are and shall remain the sole and exclusive property of Licensor. All rights not expressly granted to Licensee are reserved by Licensor.
+
+3. LICENSE RESTRICTIONS
+Licensee shall NOT, directly or indirectly:
+(a) Decompile, disassemble, reverse engineer, decrypt, or attempt to derive the source code, underlying ideas, or algorithms of the Software;
+(b) Copy, reproduce, clone, modify, translate, or create derivative works of the Software or any portion thereof;
+(c) Sublicense, rent, lease, sell, resell, loan, distribute, time-share, or host the Software on a software-as-a-service (SaaS) or public network basis without prior written consent from Licensor;
+(d) Remove, obscure, or alter any proprietary notices, copyright notices, trademarks, or digital signatures contained within the Software;
+(e) Circumvent, disable, bypass, or tamper with any technological protection measures, license validation, integrity verification, or security features of the Software;
+(f) Use the Software for any unlawful, fraudulent, or unauthorized commercial activity.
+
+4. LICENSEE DATA OWNERSHIP
+Licensee retains 100% full, exclusive ownership of all operational, transactional, financial, and inventory data inputted into the Software and stored in the local plant database ("Licensee Data"). Licensor claims zero ownership rights over Licensee's sales tickets, customer contacts, gas tank balances, or cashier audits. Licensee may freely export, back up, migrate, or delete Licensee Data at any time using the built-in local database tools.
+
+5. OFFLINE OPERATION & AUTO-UPDATES
+(a) Local Durability: The Software operates as an on-premise, offline-first desktop application. Core POS functionality, database transactions, and hardware receipt printing do not depend on active internet connectivity.
+(b) Updates: When internet connectivity is available, the Software may periodically communicate with Licensor's official release servers to check for updates, security patches, and bug fixes. Updates are downloaded and applied in accordance with the Software's release policies.
+
+6. TERMINATION
+This Agreement is effective until terminated. Your rights under this Agreement will terminate immediately and automatically without notice from Licensor if You fail to comply with any provision of this Agreement, or upon the expiration or revocation of Your commercial license. Upon termination, You must immediately cease all use of the Software and permanently delete or destroy all copies of the Software in Your possession or control.
+
+7. DISCLAIMER OF WARRANTIES
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND. LICENSOR HEREBY DISCLAIMS ALL WARRANTIES, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, TITLE, QUIET ENJOYMENT, AND NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE SOFTWARE WILL MEET YOUR REQUIREMENTS, THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE SOFTWARE WILL BE CORRECTED IMMEDIATELY.
+
+8. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, PLANT DOWNTIME, LOSS OF GAS INVENTORY, LOSS OF DATA, EQUIPMENT DAMAGE, BUSINESS INTERRUPTION, OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES) ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT SHALL LICENSOR'S TOTAL AGGREGATE LIABILITY TO YOU FOR ALL DAMAGES EXCEED THE ACTUAL AMOUNT PAID BY YOU FOR THE SOFTWARE LICENSE DURING THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
+
+9. SEVERABILITY & ENTIRE AGREEMENT
+If any provision of this Agreement is held to be invalid, illegal, or unenforceable, the validity, legality, and enforceability of the remaining provisions shall continue in full force and effect. This Agreement constitutes the complete and exclusive understanding between the parties concerning the Software and supersedes all prior proposals, agreements, and representations.
+
+10. GOVERNING LAW & JURISDICTION
+This Agreement shall be governed by and construed in accordance with the laws of the Federal Republic of Nigeria, without giving effect to any choice or conflict of law rules. Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of competent jurisdiction in Nigeria.
+
+11. CONTACT & LICENSING INQUIRIES
+For commercial license validation, plant multi-terminal deployment, or developer support:
+- Author / Developer: Olaitan (@olaxbonnke)
+- WhatsApp Support: https://wa.me/message/BFSG3COETP6IP1
+- Project Repository: https://github.com/olaxbonnke/gam

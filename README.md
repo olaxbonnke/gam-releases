@@ -38,3 +38,6 @@ To purchase an operating license, schedule a station deployment, or request a pl
 ## 🛡️ License & Compliance
 
 All software binaries, blockmaps, and release tags distributed through this CDN are the proprietary commercial property of OLAITAN. Any unauthorized distribution, re-hosting, cracking, or unauthorized commercial use is a violation of intellectual property laws.
+
+- **License Agreement**: [Commercial End-User License Agreement (EULA)](LICENSE)
+- **Privacy Policy**: [Offline-First Data Privacy Policy](PRIVACY.md)
